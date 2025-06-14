@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>Introduction to Python</title>
+        <author>John Doe</author>
+        <year>2021</year>
+        <genre>Programming</genre>
+    </book>
+    <book id="2">
+        <title>Machine Learning Basics</title>
+        <author>Jane Smith</author>
+        <year>2022</year>
+        <genre>Artificial Intelligence</genre>
+    </book>
+    <book id="3">
+        <title>Data Structures and Algorithms</title>
+        <author>Alan Turing</author>
+        <year>2020</year>
+        <genre>Computer Science</genre>
+    </book>
+</library>
